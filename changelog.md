@@ -166,3 +166,40 @@ Release Date: Nov 18, 2017 (Chris Kwon)
 - Edited load() function in XML_Model 
 - Updated changelog.md
 
+--------------------- BACKEND ----------------------
+
+## Version 0.1.1
+
+Release Date: Nov 30, 2017 (Chris Kwon)
+
+- Backend Cruft Removal
+- Backend UI 
+- Backend Package
+- Created Job Controller
+- Created Job::index_get()
+- Created Job::index_post()
+- Created Job::index_put()
+- Created Job::item_delete()
+- Updated changelog.md
+
+## Version 0.1.2
+
+Release Date: Dec 02, 2017 (Chris Kwon)
+
+- Updated Curl.php
+- Updated changelog.md
+
+## Version 0.1.2
+
+Release Date: Dec 02, 2017 (Chris Kwon)
+
+- Updated index_delete function in Job.php
+- Updated changelog.md
+
+## Version 0.1.3
+
+Release Date: Dec 02, 2017 (Chris Kwon)
+
+- Updated Curl.php
+- Updated changelog.md
+

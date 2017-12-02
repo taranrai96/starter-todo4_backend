@@ -180,5 +180,14 @@ Release Date: Nov 30, 2017 (Chris Kwon)
 - Created Job::index_post()
 - Created Job::index_put()
 - Created Job::item_delete()
+- Updated changelog.md
+
+## Version 0.1.2
+
+Release Date: Dec 01, 2017 (Chris Kwon)
+
+- Updated Curl.php
+- Updated changelog.md
+
 
 

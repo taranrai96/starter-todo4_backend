@@ -196,4 +196,10 @@ Release Date: Dec 02, 2017 (Chris Kwon)
 - Updated index_delete function in Job.php
 - Updated changelog.md
 
+## Version 0.1.3
+
+Release Date: Dec 02, 2017 (Chris Kwon)
+
+- Updated Curl.php
+- Updated changelog.md
 
